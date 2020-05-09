@@ -1,8 +1,8 @@
 title: Footer
 baseurl: /
 permalink: /:title/
-color_scheme: light
-accent_color: pink
+color_scheme: null
+accent_color: null
 header:
   title: ""
   has_nav: false
