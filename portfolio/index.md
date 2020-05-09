@@ -1,10 +1,10 @@
 ---
-title: Portfolio1
+title: Portfolio
 subtitle: This is an optional subtitle for the portfolio page.
 layout_style: tiles
 menus:
   main:
     title: Portfolio
-    weight: 2
+    weight: 4
 layout: portfolio
 ---
